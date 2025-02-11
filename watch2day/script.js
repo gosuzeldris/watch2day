@@ -1,4 +1,4 @@
-const API_KEY = '18630a8d5d4f873033728fdac013db1d';
+const API_KEY = 18630a8d5d4f873033728fdac013db1d;
 const MOVIE_ENDPOINTS = [
   'https://vidlink.pro/movie/',
   'https://vidsrc.dev/embed/movie/',
